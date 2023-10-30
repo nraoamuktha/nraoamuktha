@@ -21,7 +21,6 @@ Hello! I'm Amuktha, an Information Systems student at the University of Maryland
 I'm excited to work on challenging projects, learn new technologies, and contribute to a dynamic team. You can always catch me upon the below address!
 
 📧 **Contact Me:**
-- Email: amuktha96@gmail.com
 - LinkedIn: [Amuktha Malyada Nadipelli](https://www.linkedin.com/in/amuktha-malyada-nadipelli)
 
 Feel free to reach out if you have any opportunities or if you'd like to connect and discuss data-related projects or collaborations!
