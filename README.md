@@ -5,8 +5,7 @@ Hello! I'm Amuktha, an Information Systems student at the University of Maryland
 📚 **Education:** 
 - [University of Maryland, College Park](https://www.umd.edu/)
 - Master of Science in Information Systems (Expected Graduation: [Dec 2023])
-- [Gokaraju Rangaraju Institute of Engineering and Technology]
-- Bachelor of Technology in Information Technology (Graduated: [May 2018])
+  
 ## Skills
 
 - **Data Analysis:** Proficient in data manipulation, visualization, and analysis using tools such as Python (pandas, matplotlib, seaborn), R, and SQL.
